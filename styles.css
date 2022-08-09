@@ -1,0 +1,31 @@
+body {
+    background-color:#EAF6F6; 
+    color: black;
+  }
+h1 {
+  color: #66BFBF;
+}
+h2 {
+color: #66BFBF;
+}
+h3 {
+color: #66BFBF;
+;
+}
+h4 {
+color: #66BFBF;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width:9%;
+  border-color:  #66BFBF;
+}
+.banana {
+background-color:#9ffa43;
+}
+.orange {
+  background-color: #fcf805;
+}
+
