@@ -1,31 +1,67 @@
-body {
-    background-color:#EAF6F6; 
-    color: black;
-  }
-h1 {
-  color: #66BFBF;
-}
-h2 {
-color: #66BFBF;
-}
-h3 {
-color: #66BFBF;
-;
-}
-h4 {
-color: #66BFBF;
+body{
+  background-color:white;
+
 }
 hr {
   border-style: none;
   border-top-style: dotted;
   border-width: 10px;
-  width:9%;
-  border-color:  #66BFBF;
+  width:5%;
+  border-color:#5d5aec;
 }
-.banana {
-background-color:#9ffa43;
+
+
+h1 {
+  color:#5d5aec;
 }
-.orange {
-  background-color: #fcf805;
+h2 {
+color:#5d5aec;
 }
+h3 {
+color:#5d5aec;
+;
+}
+h4 {
+color: #5d5aec;
+}
+
+
+
+.ism{
+  width:455px;
+  background-color: rgb(153, 231, 241);
+  margin:10px;
+  padding:10px;
+}
+.bio{
+width:850px;
+  height:30px;
+  background-color: rgb(107, 241, 119);
+  margin:10px;
+  padding:10px;
+}
+.rezyume{
+  background-color:#eff303;
+width:850px;
+height:345px;
+margin:10px;
+padding:10px;
+}
+
+
+.uqish{
+  width:455px;
+  background-color: rgb(248, 105, 105);
+  margin:10px;
+  padding:10px;
+}
+.til {
+  padding:10px;
+  margin:10px;
+}
+
+
+
+
+
 
